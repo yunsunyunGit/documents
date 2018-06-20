@@ -1,0 +1,146 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:977px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u22_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:750px;
+  height:1334px;
+}
+#u22 {
+  position:absolute;
+  left:227px;
+  top:56px;
+  width:750px;
+  height:1334px;
+}
+#u23 {
+  position:absolute;
+  left:2px;
+  top:659px;
+  width:746px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u24_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:107px;
+  height:93px;
+}
+#u24 {
+  position:absolute;
+  left:554px;
+  top:1297px;
+  width:107px;
+  height:93px;
+}
+#u25 {
+  position:absolute;
+  left:2px;
+  top:38px;
+  width:103px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u26_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:86px;
+  height:95px;
+}
+#u26 {
+  position:absolute;
+  left:840px;
+  top:1296px;
+  width:86px;
+  height:95px;
+}
+#u27 {
+  position:absolute;
+  left:2px;
+  top:40px;
+  width:82px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u28_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:699px;
+  height:264px;
+}
+#u28 {
+  position:absolute;
+  left:245px;
+  top:219px;
+  width:699px;
+  height:264px;
+}
+#u29 {
+  position:absolute;
+  left:2px;
+  top:124px;
+  width:695px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u30_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:81px;
+  height:71px;
+}
+#u30 {
+  position:absolute;
+  left:245px;
+  top:112px;
+  width:81px;
+  height:71px;
+}
+#u31 {
+  position:absolute;
+  left:2px;
+  top:28px;
+  width:77px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u32_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:94px;
+  height:73px;
+}
+#u32 {
+  position:absolute;
+  left:850px;
+  top:398px;
+  width:94px;
+  height:73px;
+}
+#u33 {
+  position:absolute;
+  left:2px;
+  top:28px;
+  width:90px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
